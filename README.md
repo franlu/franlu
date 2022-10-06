@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Bienvenid@s! 👋
 
 <!--
 **franlu/franlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=franlu&show_icons=true&locale=en&layout=compact" alt="franlu"/>
+
+### Mi actividad
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=franlu&show_icons=true&theme=highcontrast)
+[![trophy](https://github-profile-trophy.vercel.app/?username=franlu&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy) 
+<br>
+<img src="https://komarev.com/ghpvc/?username=franlu&label=Profile%20views&color=0e75b6&style=flat" alt="franlu"/>
