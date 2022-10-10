@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franlu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Mi actividad
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=franlu&show_icons=true&theme=cobalt2)
 [![trophy](https://github-profile-trophy.vercel.app/?username=franlu&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy) 
 <br>
 <img src="https://komarev.com/ghpvc/?username=franlu&label=Profile%20views&color=0e75b6&style=flat" alt="franlu"/>
