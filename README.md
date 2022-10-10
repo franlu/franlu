@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franlu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franlu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Mi actividad
 [![trophy](https://github-profile-trophy.vercel.app/?username=franlu&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy) 
