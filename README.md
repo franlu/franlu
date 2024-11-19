@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Skills
+* HTML 5
+* CSS 3
+* JS
+
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,js)](https://skillicons.dev)
+
 #### StackOverflow
 
 [![user:1322218's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/1322218?theme=default)](https://github.com/johannchopin/stackoverflow-readme-profile)
