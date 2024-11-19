@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-* HTML 5
-* CSS 3
-* JS
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
