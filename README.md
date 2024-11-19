@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * CSS 3
 * JS
 
-[![My Skills](https://skillicons.dev/icons?i=html5,css3,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 #### StackOverflow
 
